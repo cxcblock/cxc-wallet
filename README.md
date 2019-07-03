@@ -14,3 +14,9 @@ Linux:
 dpkg -i CXCWallet-1.0.deb
 ```
 
+# Mobile Wallet
+
+Android:
+
+com.cxcblock.wallet_1.0.0.apk
+
