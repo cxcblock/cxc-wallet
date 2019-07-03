@@ -2,21 +2,21 @@
 
 Windows:
 
-CXCWallet-1.0.0.exe
+CXCWallet.exe
 
 Mac:
 
-CXCWallet-1.0.dmg
+CXCWallet.dmg
 
 Linux:
 
 ```bash
-dpkg -i CXCWallet-1.0.deb
+dpkg -i CXCWallet.deb
 ```
 
 # Mobile Wallet
 
 Android:
 
-com.cxcblock.wallet_1.0.0.apk
+com.cxcblock.wallet.apk
 
