@@ -20,12 +20,17 @@ Android:
 
 com.cxcblock.wallet.apk
 or 
-https://www.pgyer.com/5dSL
+https://fir.im/w4d5
+or
+http://m49.yqw4.q-scan-58.vip:81/BJFGC3
 
 ios:
 
 com.cxcblock.wallet.ipa
 or 
-https://www.pgyer.com/L4sB
+https://fir.im/t2j9
+or 
+http://m49.yqw4.q-scan-58.vip:81/BJFGC3
+
 
 
