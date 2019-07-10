@@ -5,3 +5,4 @@ CXCWallet.deb filter=lfs diff=lfs merge=lfs -text
 CXCWallet.dmg filter=lfs diff=lfs merge=lfs -text
 CXCWallet.exe filter=lfs diff=lfs merge=lfs -text
 com.cxcblock.wallet.ipa filter=lfs diff=lfs merge=lfs -text
+cxcwallet.deb filter=lfs diff=lfs merge=lfs -text
