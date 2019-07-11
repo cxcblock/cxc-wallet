@@ -4,13 +4,18 @@ Windows:
 
 CXCWallet.exe
 
+download https://github.com/cxcblock/cxc-wallet/raw/master/CXCWallet.exe
+
 Mac:
 
 CXCWallet.dmg
 
+download https://github.com/cxcblock/cxc-wallet/raw/master/CXCWallet.dmg
+
 Linux:
 
 ```bash
+dowload https://github.com/cxcblock/cxc-wallet/raw/master/cxcwallet.dmg
 dpkg -i CXCWallet.deb
 ```
 
