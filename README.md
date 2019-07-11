@@ -15,7 +15,7 @@ download https://github.com/cxcblock/cxc-wallet/raw/master/CXCWallet.dmg
 Linux:
 
 ```bash
-dowload https://github.com/cxcblock/cxc-wallet/raw/master/cxcwallet.dmg
+dowload https://github.com/cxcblock/cxc-wallet/raw/master/cxcwallet.deb
 dpkg -i CXCWallet.deb
 ```
 
