@@ -24,14 +24,19 @@ dpkg -i CXCWallet.deb
 Android:
 
 com.cxcblock.wallet.apk
-or
+<br/>or<br/>
 http://m49.yqw4.q-scan-58.vip:81/BJFGC3
+<br/>or<br/>
+https://51gsc.com/app/OOzg
+
 
 ios:
 
 com.cxcblock.wallet.ipa
-or 
+<br/>or<br/> 
 http://m49.yqw4.q-scan-58.vip:81/BJFGC3
+<br/>or<br/>
+https://51gsc.com/app/cJ1q
 
 
 
