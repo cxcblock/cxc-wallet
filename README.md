@@ -25,18 +25,22 @@ Android:
 
 com.cxcblock.wallet.apk
 <br/>or<br/>
-http://m49.yqw4.q-scan-58.vip:81/BJFGC3
-<br/>or<br/>
 https://xmvip.vip/zBHKK1
+
+<br/>or<br/>
+http://m49.yqw4.q-scan-58.vip:81/BJFGC3
 
 
 ios:
 
 com.cxcblock.wallet.ipa
-<br/>or<br/> 
-http://m49.yqw4.q-scan-58.vip:81/BJFGC3
+
 <br/>or<br/>
 https://xmvip.vip/zBHKK1
+
+<br/>or<br/> 
+http://m49.yqw4.q-scan-58.vip:81/BJFGC3
+
 
 
 
