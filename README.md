@@ -21,6 +21,8 @@ dpkg -i CXCWallet.deb
 
 # Mobile Wallet
 
+https://d.cxcblock.com
+
 Android:
 
 com.cxcblock.wallet.apk
